@@ -1,16 +1,18 @@
-### Hi there 👋
+# William Hoffmann
 
-<!--
-**willhoffmann/willhoffmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm **William Hoffmann**, a Tech Lead with 10+ years of experience in development and software architecture. 
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend**: NestJS, PHP, Ruby, Dart
+- **Frontend**: React
+- **Mobile**: React Native, Flutter
+- **Databases**: MySQL, PostgreSQL, Redis, MongoDB
+- **Messaging**: RabbitMQ, Service Bus, EventHubs, SQS
+- **Architecture**: SOLID, DDD, CQRS, Microservices, Hexagonal Architecture, EDA
+- **DevOps**: Docker, Kubernetes, GCP, AWS, GitHub Actions
+
+
+## 📫 Contact
+
+- [LinkedIn](https://www.linkedin.com/in/williamhoffmann)
